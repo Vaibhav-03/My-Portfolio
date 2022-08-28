@@ -1,0 +1,21 @@
+body {
+    background :#236754;
+    text-align: center;
+}
+#main{
+    width: 900px;
+    height: 600px;
+    background:#cef7b0;
+    margin: 25px auto;
+    border: solid 5px #161109;
+}
+h1{
+    text-align:center;
+    font-family: Arial;
+    font:25pt;
+    color:black;
+}
+hr{
+    height:4px;
+    color:brown;
+}
